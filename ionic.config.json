@@ -1,7 +1,8 @@
 {
   "name": "corodova-m1-demo",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
   "type": "angular",
   "id": "ddf9dd41"
